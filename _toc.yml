@@ -4,8 +4,9 @@
 format: jb-book
 root: intro
 chapters:
+- file: materias-aprobadas
+- file: materias-por-aprobar
 - file: markdown
 - file: notebooks
 - file: markdown-notebooks
-- file: materias-aprobadas
-- file: materias-por-aprobar
+
